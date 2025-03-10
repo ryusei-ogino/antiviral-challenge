@@ -1,6 +1,6 @@
 # antiviral-challenge
 
-Ensemble docking and visual inspection
+traditional docking and visual inspection
 
 1. Search SARS and MERS holo structure from pdb database
 ```
